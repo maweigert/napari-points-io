@@ -11,7 +11,7 @@ import pandas as pd
 
 @napari_hook_implementation
 def napari_get_reader(path):
-    if isinstance(path, str) and path.endswith(".csv"):
+    if isinstance(path, str) and path.endswith(".rrr"):
         return reader_function
     return None
 

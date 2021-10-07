@@ -12,12 +12,12 @@ from napari_plugin_engine import napari_hook_implementation
 
 @napari_hook_implementation
 def napari_get_writer(path, layer_types):
-    if isinstance(path, str) and path.endswith('.csv'):
+    if isinstance(path, str) and path.endswith('.rrr'):
         return napari_write_points
     
 
 @napari_hook_implementation
 def napari_write_points(path, data, meta):
     with open(path,'w') as f:
-        f.write('bazinga!')
+        f.write('bazingassss!')
     
