@@ -1,0 +1,3 @@
+[napari.plugin]
+napari-points-io = napari_points_io
+
