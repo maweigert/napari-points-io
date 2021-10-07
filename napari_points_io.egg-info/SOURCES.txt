@@ -6,6 +6,7 @@ setup.cfg
 setup.py
 napari_points_io/__init__.py
 napari_points_io/_reader.py
+napari_points_io/_writer.py
 napari_points_io.egg-info/PKG-INFO
 napari_points_io.egg-info/SOURCES.txt
 napari_points_io.egg-info/dependency_links.txt
