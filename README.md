@@ -1,3 +1,5 @@
+Small test
+
 # napari-points-io
 
 [![License](https://img.shields.io/pypi/l/napari-points-io.svg?color=green)](https://github.com/maweigert/napari-points-io/raw/master/LICENSE)
